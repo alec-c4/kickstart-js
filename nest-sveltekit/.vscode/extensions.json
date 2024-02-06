@@ -1,0 +1,21 @@
+{
+  "recommendations": [
+    "ardenivanov.svelte-intellisense",
+    "astro-build.astro-vscode",
+    "bradlc.vscode-tailwindcss",
+    "dbaeumer.vscode-eslint",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "jock.svg",
+    "mikestead.dotenv",
+    "ms-playwright.playwright",
+    "oderwat.indent-rainbow",
+    "Prisma.prisma",
+    "sebsojeda.vscode-svx",
+    "svelte.svelte-vscode",
+    "unifiedjs.vscode-mdx",
+    "YoavBls.pretty-ts-errors",
+    "yzhang.markdown-all-in-one"
+  ],
+  "unwantedRecommendations": []
+}
