@@ -10,9 +10,6 @@ list:
 test:
 	@# Help: Run tests
 	@pnpm test
-test/e2e:
-	@# Help: Run e2e tests
-	@pnpm test:e2e
 install:
 	@# Help: Install dependencies
 	@pnpm install
@@ -32,7 +29,7 @@ run:
 	@pnpm dev
 lint:
 	@# Help: Run linter
-	@pnpm list
+	@pnpm lint
 format:
 	@# Help: Format code
 	@pnpm format
